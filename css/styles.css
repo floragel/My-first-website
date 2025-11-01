@@ -1,0 +1,161 @@
+p.by{
+	color: #fff;
+	font-size: 35px;
+	padding-left: 680px;
+	padding-top: 20px;
+}
+
+h2.ps{
+	color: yellow;
+}
+
+p.contactez{
+	color: black;
+}
+file:///C:/Users/nayl/Desktop/Mon%20site/img/sportparty.jpg
+h1{
+	color: black;
+	font-size: 199px; 
+	padding-top: -540px;
+	animation: glisse 2s ease;
+	padding-left: 565px;
+}
+
+h3.systeme {
+	color: purple;
+}
+
+h2.important {
+
+	color: red;
+}
+
+h3.important {
+
+	color: red;
+}
+
+@keyframes glisse{
+
+	0% {
+		transform: rotate(0deg);
+	}
+
+   10% {
+		transform: rotate(10deg);
+	}
+   
+   20% {
+   		transform: rotate(20deg);
+   }
+}
+
+p.vidéos{
+	color: #F4DD0B;
+	font-size: 50px;
+	padding-left: 565px;
+}
+
+body{
+	background-color: #07BEF4;
+}
+
+a{
+	color: #fff;
+	font-size: 35px;
+	padding-right: : 3000px; 
+}
+
+input.chat2{
+	margin: 8px;
+}
+
+nav.menu-nave ul li:hover {
+	transform: scale(1.3);
+}
+
+nav.menu-nave ul li{
+list-style-type: none;
+}
+
+nav.menu-nave ul li{
+	display: inline-block;
+}
+
+nav.menu-nave ul li a{
+	color: black;
+	text-decoration: none;
+	background-color: yellow;
+	padding: 5px;
+}
+
+nav.menu-nave ul li:hover a{
+	color: yellow;
+	background-color: black;
+	transition: 0.3s all;
+}
+
+footer.Copyrightvidéos{
+	
+}
+
+	/* slider */
+
+div.slides{
+	display: flex;
+	flex-direction: row;
+	animation: glisse 15s infinite ease;
+}
+
+
+img {
+	width: 1000px;
+	padding-top: 5px;
+}
+
+
+@keyframes glisse{
+
+	0% {
+		transform: translate(0);
+	}
+
+	10% {
+		transform: translate(-500px);
+	}
+
+	25% {
+		transform: translate(-1000px);
+	}
+
+	33% {
+		transform: translate(-2000px);
+	}
+
+	45% {
+		transform: translate(-3000px);
+	}
+
+	58% {
+		transform: translate(-3000px);
+	}
+
+
+	66% {
+		transform: translate(-2000px);
+	}
+
+	70% {
+		transform: translate(-100px);
+	}
+
+	80% {
+		transform: translate(-500px);
+	}
+
+
+	100% {
+		transform: translate(0);
+	}
+}
+
