@@ -1,4 +1,4 @@
-# 🎮 My First Website — Nintendo Lahlou Universe
+# 🎮 My First Website — Nintendo Lahlou
 
 Ce dépôt est une archive précieuse de mon tout premier site web, mais aussi le témoin d'un écosystème bien plus vaste né dans mon imagination de jeune développeur.
 
